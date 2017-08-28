@@ -1,0 +1,17 @@
+test_word	test_instruction	test_tone	test_response	Key_Pressed	Word_on_Time	Key_Press_Time	Response_Time
+DEBUT	foil	lo.wav	j	j	8784721.00	8786571.00	1849
+OPERA	f	lo.wav	f	f	8788904.33	8790571.69	1667
+JOURNEY	foil	lo.wav	j	j	8792904.32	8793506.67	602
+SYMPHONY	foil	lo.wav	j	j	8795837.66	8796419.93	582
+ELBOW	f	lo.wav	f	j	8798754.33	8799787.86	1033
+TEACHER	foil	lo.wav	j	j	8802121.00	8803130.32	1009
+GUEST	foil	lo.wav	j	j	8805454.33	8805467.40	13
+DETAIL	foil	lo.wav	j	j	8807804.32	8808147.64	343
+DIAGRAM	r	hi.wav	f	f	8810470.99	8810819.62	348
+HANDLE	foil	lo.wav	j	j	8813154.32	8813970.84	816
+LATIN	f	lo.wav	f	j	8816304.32	8817402.55	1098
+LEISURE	r	hi.wav	f	f	8819737.67	8820594.41	856
+LAWN	foil	lo.wav	j	j	8822921.00	8823467.45	546
+CUSTOMER	r	hi.wav	f	f	8825804.33	8826378.95	574
+WORD	r	hi.wav	f	j	8828704.34	8829186.16	481
+PASTE	r	hi.wav	f	f	8831587.67	8831964.17	376
